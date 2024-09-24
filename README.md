@@ -1,5 +1,5 @@
 # sql-challenge
- Employee Database Analysis
+Employee Database Analysis
 
 Project Overview
 
@@ -8,22 +8,23 @@ The Employee Database Analysis project focuses on creating and analyzing a relat
 Objectives
 
     1.    Data Modeling:
-        •    Create tables for Employees, Salaries, Titles, Departments, Dept_Manager, and Dept_Emp to reflect the relationships and constraints inherent in the data.
-        •    Implement primary keys, foreign keys, and data types to ensure data integrity and facilitate efficient querying.
+    •    Use QuickDB to create an Entity-Relationship Diagram (ERD) and develop tables for Employees, Salaries, Titles, Departments, Dept_Manager, and Dept_Emp to reflect the relationships and constraints inherent in the data.
+    •    Implement primary keys, foreign keys, and data types to ensure data integrity and facilitate efficient querying.
     2.    Data Importation:
-        •    Import CSV files containing employee data, salary information, job titles, department details, and managerial relationships into the corresponding SQL tables.
+    •    Import CSV files containing employee data, salary information, job titles, department details, and managerial relationships into the corresponding SQL tables.
     3.    Data Analysis:
-        •    Execute a series of SQL queries to derive insights from the database, including:
-        •    Listing employees with their details and salaries.
-        •    Identifying employees hired in specific years.
-        •    Extracting managerial relationships and department details.
-        •    Filtering employees based on specific criteria.
-        •    Counting the frequency of last names to identify common surnames within the organization.
+    •    Execute a series of SQL queries to derive insights from the database, including:
+    •    Listing employees with their details and salaries.
+    •    Identifying employees hired in specific years.
+    •    Extracting managerial relationships and department details.
+    •    Filtering employees based on specific criteria.
+    •    Counting the frequency of last names to identify common surnames within the organization.
 
 Tools and Technologies
 
     •    Database Management System: PostgreSQL
     •    Data Analysis Language: SQL
+    •    Modeling Tool: QuickDB for creating the Entity-Relationship Diagram.
     •    Development Environment: pgAdmin for database management and query execution.
 
 Getting Started
